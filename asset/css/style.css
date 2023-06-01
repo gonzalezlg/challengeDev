@@ -48,6 +48,13 @@ body{
     height: 40px;
 }
 
+.datosCuenta{
+    position: absolute;
+    top: 250px;
+    left: 38%;
+    font-size: 1.2rem;
+}
+
 .card{
     color: white;
     background-color: rgb(13, 209, 62);
