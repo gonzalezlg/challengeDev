@@ -17,7 +17,6 @@ fetch(url)
     let paginaActual = 1;
     let cantCuentasPorPagina = 5;
     
-    //Funcion que muestra las cuentas
     function mostrarCuentas(page) {
       divCuentas.innerHTML = ""; 
 
